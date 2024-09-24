@@ -14,3 +14,5 @@
 - Bước 6: Có thể check `\backend\data\{hostname}\data\{username}.txt` sẽ được lưu lại hết ở đây, xem đã đầy đủ file cho các account chưa.
 - Bước 7: Chạy lệnh `npm run collect:vana` hoặc `npm run collect:seed`, tất cả sẽ được tổng hợp lại ở `\backend\{hostname}\users.txt`
 - Bước 8: Lấy hết dữ liệu ở `users.txt` và đem qua source code để chạy.
+
+> Ban co the tat app nay di va bat app khac len, he thong se tu dong lay query_id ve tuong ung host
